@@ -39,6 +39,15 @@ A aplicação **Games Shop** contém:
 
 ---
 
+## 🌍 Acesse o Projeto
+
+Você pode acessar o projeto online clicando no link abaixo:
+
+[👉 Games Shop 🎮](https://site-gamesshop-weld-tau.vercel.app/)
+
+
+---
+
 ## 🧠 Como Usar
 
 ### Passo 1: Clone o repositório
